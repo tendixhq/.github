@@ -1,4 +1,4 @@
-[![Logo Image](https://raw.githubusercontent.com/tendixhq/.github/main/tendix.png)](https://github.com/VicinityTeam/talon)
+[![Logo Image](https://raw.githubusercontent.com/tendixhq/.github/main/tendix.png)](https://github.com/tendixhq)
 
 # ⚡ Tendix
 
